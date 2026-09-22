@@ -1,6 +1,6 @@
 # Hi, I'm Miles.
 
-Rustacean/Java enjoyer.<br> Currently working on the development on Asagi DEX.<br>
+Rustacean/Java enjoyer.<br> Currently working on the development of Asagi DEX.<br>
 I'm still just a student descovering the beauty of code.
 
 ## More about me
